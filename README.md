@@ -1,2 +1,2 @@
 # git-demo
-leaning git
+learning git
